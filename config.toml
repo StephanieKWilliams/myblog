@@ -17,8 +17,8 @@ pygmentsUseClasses = true
   lastmod = true
   userStatusEmoji = "😀"
   favicon = "/images/github.png"
-  avatar = "/images/avatar.png"
-  headerIcon = "/images/GitHub-Mark-Light-32px.png"
+  avatar = "https://res.cloudinary.com/dsnzpqfvd/image/upload/v1741697314/WhatsApp_Image_2025-03-11_at_15.48.15_vlwbbw.jpg"
+  headerIcon = "https://res.cloudinary.com/dsnzpqfvd/image/upload/v1741697314/WhatsApp_Image_2025-03-11_at_15.48.15_vlwbbw.jpg"
   location = "Kenya"
   enableGitalk = true
   custom_css = ["css/custom.css"]
@@ -44,7 +44,7 @@ pygmentsUseClasses = true
   [[params.links]]
     title = "Link2"
     href = "https://github.com/StephanieKWilliams"
-    icon = "https://meik2333.com/images/avatar.png"
+    icon = "https://res.cloudinary.com/dsnzpqfvd/image/upload/v1741697314/WhatsApp_Image_2025-03-11_at_15.48.15_vlwbbw.jpg"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
