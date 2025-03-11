@@ -26,9 +26,9 @@ pygmentsUseClasses = true
   enableSearch = true
 
   [params.gitalk]
-    clientID = "Your client ID"
-    clientSecret = "Your client secret"
-    repo = "repo"
+    clientID = "Ov23liC3EreyjsIFdlL8"
+    clientSecret = "a82cc287c940fe64f6b5ffb86bd143da2d924876"
+    repo = "github.com/StephanieKWilliams/myblog"
     owner = "StephanieKWilliams"
     admin = "StephanieKWilliams"
     id = "location.pathname"
