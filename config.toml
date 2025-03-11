@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Steph's blog"
+title = "Code writes"
 theme = "github-style"
 pygmentsCodeFences = true
 pygmentsUseClasses = true
